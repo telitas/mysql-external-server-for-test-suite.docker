@@ -1,0 +1,5 @@
+*           text=auto eol=lf
+*.sql       text
+*.md        text
+*.yml       text
+*.txt       text
